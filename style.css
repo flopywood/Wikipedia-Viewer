@@ -3,14 +3,12 @@ body {
   margin-top: 70px;
   font-family: Arial, sans-serif;
 }
-
-p {
+p{
   text-align: center;
-  margin-top: 500px;
+  padding-top: 5% !important;
   font-size: 76px;
   font-family: Arial, sans-serif;
 }
-
 input {
   border: 1px solid blue;
   border-radius: 1px;
@@ -22,8 +20,6 @@ input {
   width: 30%;
   position: relative;
 }
-
-
 .result {
   position: relative;
   background-color: white;
@@ -36,17 +32,14 @@ input {
   border-style: bold;
   border-color: blue;
 }
-
 blockquote {
   border-left: none;
   text-align: center;
 }
-
 #wikiSearchResults {
   position: relative;
   text-align: center;
 }
-
 button {
   background-color: #f2f2f2;
   border: 1px solid #f2f2f2;
@@ -61,7 +54,6 @@ button {
   padding: 0 16px;
   text-align: center;
 }
-
 h3 {
   color: red;
 }
